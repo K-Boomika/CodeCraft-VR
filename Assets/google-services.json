@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "843435476609",
+    "project_id": "codecraft-7f75c",
+    "storage_bucket": "codecraft-7f75c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843435476609:android:4095a6966adf3a9ce22f80",
+        "android_client_info": {
+          "package_name": "com.CodeCraft.Myproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRhQ3f3CiAFLijdIjSBaThmYWgrSnRYJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
